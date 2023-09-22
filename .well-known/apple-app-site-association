@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "Y2J2ML3BSA.com.VastlyInc.Vastly.staging",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "Y2J2ML3BSA.com.VastlyInc.Vastly",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "Y2J2ML3BSA.com.VastlyInc.Vastly.prod",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
